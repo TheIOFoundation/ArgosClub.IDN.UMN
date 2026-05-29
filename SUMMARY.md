@@ -11,4 +11,4 @@
 
 ## NOTICE
 
-* [Page 1](notice/page-1.md)
+* [Section Under Maintenance](notice/section-under-maintenance.md)
